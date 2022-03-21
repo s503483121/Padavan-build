@@ -125,5 +125,5 @@ jobs:
       uses: actions/upload-artifact@master
       if: always()
       with:
-        name: NETGEAR-BZV
+        name: XY-C1
         path: /opt/images
